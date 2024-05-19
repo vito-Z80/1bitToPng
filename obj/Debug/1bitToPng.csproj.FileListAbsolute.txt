@@ -1,0 +1,7 @@
+C:\projects\NetFramework\1bitToPng\bin\Debug\_1bitToPng.exe
+C:\projects\NetFramework\1bitToPng\bin\Debug\_1bitToPng.pdb
+C:\projects\NetFramework\1bitToPng\obj\Debug\1bitToPng.csproj.AssemblyReference.cache
+C:\projects\NetFramework\1bitToPng\obj\Debug\1bitToPng.csproj.CoreCompileInputs.cache
+C:\projects\NetFramework\1bitToPng\obj\Debug\_1bitToPng.exe
+C:\projects\NetFramework\1bitToPng\obj\Debug\_1bitToPng.pdb
+C:\projects\NetFramework\1bitToPng\bin\Debug\_1bitToPng.exe.config
